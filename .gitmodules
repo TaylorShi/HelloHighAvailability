@@ -1,0 +1,3 @@
+[submodule "HelloGrpcProto"]
+	path = HelloGrpcProto
+	url = https://github.com/TaylorShi/HelloGrpcProto
